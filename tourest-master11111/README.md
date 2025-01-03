@@ -7,7 +7,8 @@
 
   Tourest is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/tourest/"><strong>➥ Live Demo</strong></a>
+  <a href="![desktop](https://github.com/user-attachments/assets/dc27892c-ef5a-4c53-81ed-a49a0b739ec7)
+"><strong>➥ Live Demo</strong></a>
 
 </div>
 
